@@ -1,0 +1,3 @@
+{
+  "query": "f4211 [\nsum(aexp)\ncount_distinct(doco)\ngroup(an8)]\nall(\nf4211.nxtr bw 480,620)"
+}
