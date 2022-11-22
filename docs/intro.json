@@ -1,0 +1,14 @@
+[
+  {
+    "title": "What",
+    "body": "Use Excel as the JDE interface."
+  },
+  {
+    "title": "Why",
+    "body": "Because Excel is used to collate data for JDE."
+  },
+  {
+    "title": "How",
+    "body": "With an Excel add-ins that can populate a sheet with data from JDE and write data from a sheet to JDE."
+  }
+]
