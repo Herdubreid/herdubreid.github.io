@@ -1,0 +1,51 @@
+[
+  {
+    "valid": true,
+    "title": "Use",
+    "price": "Free",
+    "link": {
+      "title": "Get from Appsource",
+      "href": "https://appsource.microsoft.com/en-us/product/office/WA200004096?tab=Overview",
+      "target": "_blank"
+    },
+    "includes": [
+      "Unlimited updates",
+      "Sample usage",
+      "Limited email support"
+    ],
+    "excludes": []
+  },
+  {
+    "vali": false,
+    "title": "Join",
+    "price": "Free",
+    "link": {
+      "title": "Get in Touch",
+      "href": "mailto: fbragason@outlook.com",
+      "target": "_blank"
+    },
+    "includes": [
+      "Influence direction",
+      "Exchange ideas",
+      "Potential opportunity"
+    ],
+    "excludes": [
+      "Nothing promised"
+    ]
+  },
+  {
+    "valid": false,
+    "title": "On Site",
+    "price": "Let's discuss",
+    "link": {
+      "title": "Get in Touch",
+      "href": "mailto: fbragason@outlook.com",
+      "target": "_blank"
+    },
+    "includes": [
+      "Full source Code",
+      "Full support"
+    ],
+    "excludes": []
+  }
+]
